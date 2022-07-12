@@ -3,12 +3,17 @@ what i learning everday
 - javascript basic
   * ES6
   * Framework javascript
-   - learn vue
-   - react
+   - Angular
+   - React
+- how to make a website with javascript
+- colaboration with expert programing
+- PHP framework 
+ * Laravel
+- Learn API
+
 - how to make a website with javascript
 - colaboration with expert programing
 - fundamental data structure
  * Php Frameworks
   - laravel
  
-- learn python language
