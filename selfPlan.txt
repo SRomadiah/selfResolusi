@@ -1,3 +1,4 @@
 self resolution
 - consistent learning 8 hours/day everyday
 - workout 3x for a week
+- learning new language
