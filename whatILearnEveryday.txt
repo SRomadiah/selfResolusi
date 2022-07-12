@@ -4,6 +4,7 @@ what i learning everday
   * ES6
   * Framework javascript
    - learn vue
+   - react
 - how to make a website with javascript
 - colaboration with expert programing
 - fundamental data structure
