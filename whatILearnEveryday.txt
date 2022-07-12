@@ -5,3 +5,4 @@ what i learning everday
   * Framework javascript
 - how to make a website with javascript
 - colaboration with expert programing
+- fundamental data structure
