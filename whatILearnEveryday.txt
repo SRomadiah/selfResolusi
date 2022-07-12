@@ -1,0 +1,7 @@
+what i learning everday 
+
+- javascript basic
+  * ES6
+  * Framework javascript
+- how to make a website with javascript
+- colaboration with expert programing
