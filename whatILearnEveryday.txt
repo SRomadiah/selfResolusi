@@ -10,3 +10,10 @@ what i learning everday
 - PHP framework 
  * Laravel
 - Learn API
+
+- how to make a website with javascript
+- colaboration with expert programing
+- fundamental data structure
+ * Php Frameworks
+  - laravel
+ 
